@@ -10,9 +10,13 @@ How to use:
 
 lab example:
 pod2-spine150# whoami
+
 root
+
 pod2-spine150# chmod +x /tmp/S99vrm_update.bin
+
 pod2-spine150#
+
 pod2-spine150# ls -l /tmp/S99vrm_update.bin
 -rwx------ 1 root root 22056 Sep 21 15:44 /tmp/S99vrm_update.bin
 pod2-spine150#
